@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  background-image: linear-gradient(to bottom right, white, #bad5f1);
+  height: 100vh;
+}
+
+.concat-container {
+  padding: 1.6rem;
+  border: 1px solid #4b91e2;
+  border-radius: 0.8rem;
+  margin-bottom: 1.6rem;
+}
+span {
+  font-size: 1.6rem;
+  color: #f5a524;
+}
+
+.avg-container {
+  padding: 1.6rem;
+  display: flex;
+  align-items: center;
+  border: 1px solid #4b91e2;
+  border-radius: 0.8rem;
+}
+.avg-container > p {
+  margin-left: 0.8rem;
+  font-size: 1.6rem;
+}
+
+.que-container {
+  padding: 0.8rem;
+}
+.que-container > h1 {
+  color: #4b91e2;
+  text-decoration: underline;
+}
+.que-container > p {
+  color: #4b91e2;
+}

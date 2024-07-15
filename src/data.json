@@ -1,0 +1,47 @@
+[
+  {
+    "nombre": "álvaro",
+    "apellido": "lÓpez",
+    "apellido2": "martinez",
+    "edad": 29
+  },
+  {
+    "nombre": "ferNando",
+    "apellido": "GutIerrez",
+    "apellido2": "martin",
+    "edad": 18
+  },
+  { "nombre": "franCiSco", "apellido": "Núñez", "apellido2": null, "edad": 54 },
+  {
+    "nombre": "alberT",
+    "apellido": "Morón",
+    "apellido2": "EsquErra",
+    "edad": 29
+  },
+  { "nombre": "johAn", "apellido": "Mason", "apellido2": "", "edad": 32 },
+  {
+    "nombre": "loRena",
+    "apellido": "CasteLl",
+    "apellido2": "Batalla",
+    "edad": 25
+  },
+  {
+    "nombre": "maSSiel",
+    "apellido": "durÁn",
+    "apellido2": "Bermejo",
+    "edad": 47
+  },
+  {
+    "nombre": "josé antOnio",
+    "apellido": "Yus",
+    "apellido2": "ÁrgüeLLes",
+    "edad": 96
+  },
+  {
+    "nombre": "aNNa",
+    "apellido": "llopis",
+    "apellido2": "VendreLL",
+    "edad": 59
+  },
+  { "nombre": "belÉn", "apellido": "pastores", "apellido2": null, "edad": 36 }
+]
